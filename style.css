@@ -1,0 +1,96 @@
+.orange{
+    color: coral;
+    font-size: 60px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.first-section{
+    height: 800px;
+    margin: 5%;
+}
+.anchor{
+    text-decoration: none;
+    background-color: coral;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 60px;
+}
+#lastest{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+ .gray-section{
+    height: 900px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.185);
+}
+.gray-dev{
+    width: 25%; 
+    height: 400px;
+    margin-left: 4%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    float: left;
+}
+.gray-img{
+    width: 100%;
+}
+.last-section{
+    height: 600px;
+    background-image: url(image/blue.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.last-div{
+    width: 50%;
+    height: 100px;
+    margin-top:15%;
+    float: left;
+}
+#work{
+    margin-left: 20%;
+    color: white;
+    margin-bottom: 10%;
+}
+#let{
+    margin-left: 50%;
+    margin-top: 70;
+    padding: 4%;
+    background-color: tomato;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
+.buttom-section{
+    height: 400px;
+}
+.buttom-dev{
+    width: 50%;
+    float: left;
+}
+.media{
+    width:10%;
+}
